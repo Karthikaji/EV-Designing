@@ -7,12 +7,4 @@ Designing and creating a Elelctic vehicle
 ~***uguyguhguyy***hhhhh~
 1. sfguh
 2. dfjghodu
-3. dfhdfh
-4. dfh
-5. dfh
-6. df
-7. hd
-8. 325221125258577894561230
-9. 4571
-10. 02150
-11. djfgjfguuruufjjfurhy
+![EV](https://github.com/Karthikaji/EV-Designing/blob/9ac988c4ccb41255ca51347d04ba11fe6fd152ec/img/Screenshot%20from%202022-06-18%2012-04-12.png)
